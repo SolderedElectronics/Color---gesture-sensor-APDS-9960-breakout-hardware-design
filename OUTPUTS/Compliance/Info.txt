@@ -1,0 +1,5 @@
+SKU: 333002
+Full product name: Color and gesture sensor APDS-9960 breakout
+Country of origin: Croatia
+HS tariff code: 85389099
+EAN/UPC barcode: 
