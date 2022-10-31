@@ -61,3 +61,14 @@ Changes to be committed:
  create mode 100755 log.txt
 https://github.com/SolderedElectronics/Color-&-gesture-sensor-APDS-9960-breakout-hardware-design.git
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Color & gesture sensor APDS-9960 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 4e34f17] Updating open source files.
+ 1 file changed, 62 insertions(+)
+https://github.com/SolderedElectronics/Color---gesture-sensor-APDS-9960-breakout-hardware-design.git
+https://github.com/SolderedElectronics/Color---gesture-sensor-APDS-9960-breakout-hardware-design.git
+https://github.com/SolderedElectronics/Color---gesture-sensor-APDS-9960-breakout-hardware-design.git
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Color & gesture sensor APDS-9960 breakout/.git/
